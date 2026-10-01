@@ -1,4 +1,4 @@
 def hello():
-    return "Hello, Alisher!"
+    return "Hello, Alisher! CI/CD works!"
 
 print(hello())
